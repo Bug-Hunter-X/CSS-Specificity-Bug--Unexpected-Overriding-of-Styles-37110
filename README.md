@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked issue in CSS: specificity conflicts. The bug.css file showcases a scenario where an ID selector overrides a class selector due to higher specificity, leading to unexpected styling. The bugSolution.css file provides a solution to resolve the conflict while keeping styles organized.
